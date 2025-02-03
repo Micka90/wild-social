@@ -26,14 +26,9 @@ HTML5 - CSS3 - Javascript
 
 Distributed under the MIT License
 
-<!-- CONTACT -->
-## Contact
-Antoine Delalande - ant.delalande@gmail.com
-
-Project Link: [https://github.com/Hamsolovski/wild-social](https://github.com/Hamsolovski/wild-social)
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [Antoine Delalande](https://github.com/Hamsolovski)
 * [Mickaël Beaugrand](https://github.com/Micka90)
 * [Erwan Bataille](https://github.com/Erwan60)
